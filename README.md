@@ -10,7 +10,7 @@ Data Analyst specializing in CRM, customer insights, and process optimization us
 ---
 
 ## 🧠 What I Do
-- 🔹 **Salesforce Expertise:** Configuration, data analysis, automation, and optimization of CRM processes  
+- 🔹 **Salesforce Expertise:** Configuration, data analysis and optimization of CRM processes  
 - 🔹 **Business Analysis:** Requirement gathering, process mapping, and creating BRDs & user stories  
 - 🔹 **Data Analysis:** Power BI dashboards, Python-based analysis, and SQL data querying  
 - 🔹 **Agile Delivery:** Experience with JIRA, sprint planning, and stakeholder collaboration  
@@ -31,7 +31,8 @@ Data Analyst specializing in CRM, customer insights, and process optimization us
 
 ## 🌟 Featured Projects
 🔸 **Salesforce Intel Project** – Here create Dashboards,Reports based on insights of Intel product and Programs.   
-🔸 **Customer Churn Dashboard (Power BI & Python)** – Visualized churn behavior using demographic and financial data insights  
+🔸 **Customer Churn Dashboard (Power BI & Python)** – Visualized churn behavior using demographic and financial data insights 
+🔸 **Sales Performance Dashboard**
 
 ---
 
