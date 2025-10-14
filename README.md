@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Alekhya!
 
-💼 **Salesforce Business Analyst | Aspiring Data Analyst | 6+ Years of Experience**
+💼 **Salesforce Business Analyst | Data Analyst | 6+ Years of Experience**
 
 Welcome to my GitHub profile!  
 I'm passionate about **turning business needs into smart technical solutions** using **Salesforce, data analytics, and automation**.  
