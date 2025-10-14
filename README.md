@@ -17,7 +17,7 @@ Currently working as a **Data Analyst** role — blending my Salesforce expertis
 ---
 
 ## 🛠️ Tech Stack
-**Salesforce | Power BI | Python | SQL | Excel | JIRA | LWC | Data Visualization**
+**Salesforce | Power BI | Python | SQL | Excel | JIRA | Data Visualization**
 
 ---
 
@@ -29,9 +29,8 @@ Currently working as a **Data Analyst** role — blending my Salesforce expertis
 ---
 
 ## 🌟 Featured Projects
-🔸 **Salesforce Quick Button Automation** – Automated pre-populated email compose window for territory managers  
-🔸 **Incident Resolution Automation (Mars Health Care)** – Reduced L2 support effort using AI-powered query handling  
-🔸 **Customer Churn Dashboard (Power BI)** – Visualized churn behavior using demographic and financial data insights  
+🔸 **Salesforce Intel Project** – Here create Dashboards,Reports based on insights of Intel product and Programs.   
+🔸 **Customer Churn Dashboard (Power BI & Python)** – Visualized churn behavior using demographic and financial data insights  
 
 ---
 
