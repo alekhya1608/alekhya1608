@@ -5,7 +5,6 @@
 Welcome to my GitHub profile!  
 I'm passionate about **turning business needs into smart technical solutions** using **Salesforce, data analytics, and automation**.  
 Currently working as a **Data Analyst** role — blending my Salesforce expertise with data-driven insights to enhance decision-making and operational efficiency.
-Data Analyst specializing in CRM, customer insights, and process optimization using Salesforce and advanced analytics.
 
 ---
 
