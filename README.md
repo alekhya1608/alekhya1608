@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi there, I'm Alekhya!
 
-<!--
-**alekhya1608/alekhya1608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Salesforce Business Analyst | Aspiring Data Analyst | 6+ Years of Experience**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I'm passionate about **turning business needs into smart technical solutions** using **Salesforce, data analytics, and automation**.  
+Currently working as a **Data Analyst** role — blending my Salesforce expertise with data-driven insights to enhance decision-making and operational efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I Do
+- 🔹 **Salesforce Expertise:** Configuration, data analysis, automation, and optimization of CRM processes  
+- 🔹 **Business Analysis:** Requirement gathering, process mapping, and creating BRDs & user stories  
+- 🔹 **Data Analysis:** Power BI dashboards, Python-based analysis, and SQL data querying  
+- 🔹 **Agile Delivery:** Experience with JIRA, sprint planning, and stakeholder collaboration  
+
+---
+
+## 🛠️ Tech Stack
+**Salesforce | Power BI | Python | SQL | Excel | JIRA | LWC | Data Visualization**
+
+---
+
+## 📊 Current Focus
+- Currently working as a **Data Analyst**, applying insights-driven approaches to optimize business processes and performance
+- Building upon a strong **Salesforce Business Analysis** background to integrate CRM data with analytical reporting
+- Advancing expertise in **Power BI, Python,Excel and SQL** for end-to-end data analysis and visualization
+
+---
+
+## 🌟 Featured Projects
+🔸 **Salesforce Quick Button Automation** – Automated pre-populated email compose window for territory managers  
+🔸 **Incident Resolution Automation (Mars Health Care)** – Reduced L2 support effort using AI-powered query handling  
+🔸 **Customer Churn Dashboard (Power BI)** – Visualized churn behavior using demographic and financial data insights  
+
+---
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/wuppuluri-alekhya-73563b217/) _(Add your actual LinkedIn link)_  
+- ✉️ **Email:** wkalekhya10@email.com  
+- 🌐 **Portfolio Website:** [https://alekhya.github.io](https://alekhya.github.io) _(optional, if you host one)_
+
+---
+
+⭐️ *"Bridging business strategy and data insight to build smarter systems and better decisions."*
