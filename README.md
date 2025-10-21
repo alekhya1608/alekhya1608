@@ -30,7 +30,7 @@ Currently working as a **Data Analyst** role — blending my Salesforce expertis
 
 ## 🌟 Featured Projects
 🔸 **Salesforce Intel Project** – Here create Dashboards,Reports based on insights of Intel product and Programs.   
-🔸 **Customer Churn Dashboard (Power BI & Python)** – Visualized churn behavior using demographic and financial data insights 
+🔸 **Customer Churn Dashboard (Power BI & Python)** – Visualized churn behavior using demographic and financial data insights
 🔸 **Sales Performance Dashboard**
 
 ---
