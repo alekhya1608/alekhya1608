@@ -35,6 +35,7 @@ Currently working as a **Data Analyst** role — blending my Salesforce expertis
 🔸 **Sales Performance Dashboard**
 
 ---
+## 🌟 Certification
 - 🏅 **Data Analytics Program – SkillUp Online**  
   [View Certificate](https://courses-in.skillup.online/programcertificates/283a84cd47964b4c8e2eeaf44924ccab)
 
